@@ -84,3 +84,17 @@ Would you be open to a quick chat?
 Best,
 <Your Name>
 =================================================================================
+ML Platform Engineer Outreach Template
+Subject: Your ML platform work on <Repo Name> really stood out
+
+Hi <Name>,
+
+I was reviewing your GitHub and was impressed by your work on <repo name>, especially your experience with <feature stores, model registries, orchestration, distributed training, data pipelines, monitoring, etc.>. Your background with <Kubernetes, Ray, Airflow, MLflow, Kubeflow, etc.> is exactly what our ML platform team is scaling.
+
+We’re building <brief description of ML platform>, and your experience with <specific technical detail> aligns extremely well.
+
+If you’re open to a conversation, I’d love to share more.
+
+Best,
+<Your Name>
+=========================================================================
