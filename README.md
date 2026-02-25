@@ -1,4 +1,4 @@
-# Sample-Outreach-Templets
+# Sample-Outreach-Templets - ML Engineers
 Sample Email Templets for ML Engineer Outreach
 Outreach Template: Machine Learning Engineer
 Subject: Loved your work on <Repo Name> — quick chat?
