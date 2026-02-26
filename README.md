@@ -13,6 +13,7 @@ If you’re open to a short conversation, I’d love to share more about the rol
 
 <Your Name>
 =========================================================
+
 # Outreach Template: C++ Software Engineer
 Subject: Your C++ work on <Repo Name> caught my eye
 
@@ -26,6 +27,7 @@ If you’re open to it, I’d love to connect and share more about the opportuni
 
 <Your Name>
 ===========================================================
+
 # ML Perception Engineer Outreach Template
 Subject: Your perception work on <Repo Name> really stood out
 
@@ -40,6 +42,7 @@ If you’re open to a quick conversation, I’d love to share more.
 
 <Your Name>
 ===============================================================
+
 # ML Infrastructure Engineer Outreach Template
 Subject: Loved your ML infra work on <Repo Name>
 
@@ -68,6 +71,7 @@ If you’re open to a conversation, I’d love to share more.
 
 <Your Name>
 ===============================================================================
+
 # MLOps Engineer Outreach Template
 Subject: Your MLOps work on <Repo Name> caught my eye
 
@@ -82,6 +86,7 @@ Would you be open to a quick chat?
 
 <Your Name>
 =================================================================================
+
 # ML Platform Engineer Outreach Template
 Subject: Your ML platform work on <Repo Name> really stood out
 
