@@ -28,7 +28,7 @@ If you’re open to it, I’d love to connect and share more about the opportuni
 Best,
 <Your Name>
 ===========================================================
-ML Perception Engineer Outreach Template
+# ML Perception Engineer Outreach Template
 Subject: Your perception work on <Repo Name> really stood out
 
 Hi <Name>,
