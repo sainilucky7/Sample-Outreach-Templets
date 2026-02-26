@@ -11,7 +11,6 @@ I’m working with a team building <brief description of the product or ML chall
 
 If you’re open to a short conversation, I’d love to share more about the role and learn what you’re looking for next.
 
-Best,
 <Your Name>
 =========================================================
 # Outreach Template: C++ Software Engineer
@@ -25,7 +24,6 @@ I’m recruiting for a role focused on <relevant domain — e.g., robotics, auto
 
 If you’re open to it, I’d love to connect and share more about the opportunity.
 
-Best,
 <Your Name>
 ===========================================================
 # ML Perception Engineer Outreach Template
@@ -39,7 +37,7 @@ We’re working on <brief description of perception challenge>, and your backgro
 
 If you’re open to a quick conversation, I’d love to share more.
 
-Best,
+
 <Your Name>
 ===============================================================
 # ML Infrastructure Engineer Outreach Template
@@ -56,7 +54,7 @@ Would you be open to a brief chat?
 Best,
 <Your Name>
 ==========================================================================
-ML Framework Engineer Outreach Template
+# ML Framework Engineer Outreach Template
 Subject: Your work on <Repo Name> shows real framework‑level depth
 
 Hi <Name>,
@@ -67,7 +65,7 @@ Our team is building <framework or runtime description>, and your background in 
 
 If you’re open to a conversation, I’d love to share more.
 
-Best,
+
 <Your Name>
 ===============================================================================
 # MLOps Engineer Outreach Template
@@ -81,7 +79,7 @@ We’re building <brief description of ML production environment>, and your back
 
 Would you be open to a quick chat?
 
-Best,
+
 <Your Name>
 =================================================================================
 # ML Platform Engineer Outreach Template
@@ -95,6 +93,6 @@ We’re building <brief description of ML platform>, and your experience with <s
 
 If you’re open to a conversation, I’d love to share more.
 
-Best,
+
 <Your Name>
 =========================================================================
